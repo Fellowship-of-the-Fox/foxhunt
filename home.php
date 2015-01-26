@@ -1,4 +1,5 @@
 <header>
+  <img src="img/ph-logo.jpg" alt="Purlieu Hall">
   <h3>The Fellowship of the Fox</h3>
   <h3>At Purlieu Hall</h3>
   <h3>Presents</h3>
