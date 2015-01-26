@@ -42,15 +42,16 @@ ul {
   width:90%; 
   max-width:800px;
   height:900px;
-  position: relative;
-}
+  position: relative; }
 
 header, main, footer {
   width:100%;
   margin:0 auto;
   box-sizing:border-box;
-  border:0;
-}
+  border:0; }
+
+header {
+  padding:1em 0;}
 
 main {
   padding:2em 0;
@@ -80,6 +81,7 @@ footer {
   border-bottom: .5em solid #fff8f0;}
 
   footer address {
+    padding: .5em 0;
     color: #fff7c7;
     text-transform: uppercase;
     text-align: center;}
