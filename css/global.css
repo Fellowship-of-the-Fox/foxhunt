@@ -59,7 +59,13 @@ main {
   border-right: .5em solid #fff8f0;
   border-bottom: 0;}
 
+  main div.banner{}
+
+  main ul {
+    padding-top:.5em;}
+
   main ul li {
+    padding:.5em 0;
     text-align: center;} 
 
   main ul li a{
@@ -108,7 +114,7 @@ main div.banner {
 
 .layer.first {
   background-color: #bf7633;}
-  
+
   .layer.first > .end {
     background-color: #bf7633;  }
 
