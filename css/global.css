@@ -59,6 +59,7 @@ header, main, footer {
   border:0; }
 
 header {
+  text-align: center;
   padding:1em 0;}
 
   header img {
