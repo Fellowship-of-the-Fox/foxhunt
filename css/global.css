@@ -1,4 +1,38 @@
-h1{
-  color:blue;
-  font-size:20px;
+body {
+  font-family: Garamond, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  font-weight: normal;
+  color: #000000;
+  margin: 0; 
+  background-color: #F4BC84;}
+
+div {
+  margin:0;
+  border:0;
+  padding:0;
+  position:relative;}
+
+h1, h2, h3 {
+  text-align: center;
+  font-weight:normal; 
+  margin: 0;
+  color: #AC601A;
+  font-size:30px;}
+
+p {
+  font-size: 1em;
+  padding: 0; 
+  margin:0;
+  color: #AC601A;}
+
+/*  LAYOUT  */
+
+.centering-wrapper {
+  margin: 1em auto 0 auto;
+  width:90%; 
+  max-width:800px;
+  height:900px;
+  position: relative;
 }
