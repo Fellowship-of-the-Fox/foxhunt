@@ -10,6 +10,32 @@
 </header>
 
 <main>
+  <div class="banner" id="main-banner">
+    <div class="first layer">
+      <div class="left end"></div>
+      <div class="right end"></div>
+    </div>
+    <div class="second layer">
+      <div class="left end"></div>
+      <div class="right end"></div>
+    </div>
+    <div class="third layer">
+      <div class="left end"></div>
+      <div class="right end"></div>
+    </div>
+    <div class="fourth layer">
+      <div class="left end"></div>
+      <div class="right end"></div>
+    </div>
+    <div class="fifth layer">
+      <div class="left end"></div>
+      <div class="right end"></div>
+    </div>
+    <div class="sixth layer">
+      <div class="left end"></div>
+      <div class="right end"></div>
+    </div>
+  </div>
   <ul>
     <li><a>About the Hunt</a></li>
     <li><a>Register</a></li>

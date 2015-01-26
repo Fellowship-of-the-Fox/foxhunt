@@ -77,3 +77,67 @@ footer {
     color: #fff7c7;
     text-transform: uppercase;
     text-align: center;}
+
+
+
+/*  BANNER  STYLE */
+
+main div.banner {
+  width: -moz-calc(100% + 1em);
+  width: -webkit-calc(100% + 1em);
+  width: calc(100% + 1em);
+  margin:0 0 0 -.5em;}
+
+  .banner > .layer {
+    width:100%;
+    height:.5em;}
+
+    .layer > .end {
+      position: absolute;
+      width: .5em;
+      height: .5em;}
+
+    .end.right {
+      right: 0;}
+
+    .end.left {
+      left: 0;}
+
+
+  /*  Banner COLORING */
+
+.layer.first {
+  background-color: #bf7633;}
+  
+  .layer.first > .end {
+    background-color: #bf7633;  }
+
+.layer.second {
+  background-color: #fde89e;}
+
+  .layer.second > .end {
+    background-color: #fdeeaf;  }
+
+.layer.third {
+  background-color: #fde08e;}
+
+  .layer.third > .end {
+    background-color: #fde08e;  }
+
+.layer.fourth {
+  background-color: #721b07;}
+
+  .layer.fourth > .end {
+    background-color: #721b07;  }
+
+.layer.fifth {
+  background-color: #832c0d;}
+
+  .layer.fifth > .end {
+    background-color: #832c0d;  }
+
+.layer.sixth {
+  background-color: #bf7633;}
+
+  .layer.sixth > .end {
+    background-color: #c79a54;  }
