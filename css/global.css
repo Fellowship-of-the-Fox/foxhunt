@@ -67,10 +67,10 @@ header {
     margin: 1em auto;}
 
 main {
-  padding:2em 0;
+  /*padding:2em 0;
   border-top: .5em solid #fff8f0;
   border-left: .5em solid #fff8f0;
-  border-right: .5em solid #fff8f0;
+  border-right: .5em solid #fff8f0;*/
   border-bottom: 0;}
 
   main div.banner{}
