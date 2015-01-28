@@ -47,7 +47,7 @@ ul {
 /*  LAYOUT  */
 
 .centering-wrapper {
-  margin: 1em auto 0 auto;
+  margin: 0 auto 0 auto;
   width:90%; 
   max-width:800px;
   height:900px;
