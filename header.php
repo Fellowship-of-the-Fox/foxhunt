@@ -3,7 +3,6 @@
   <head>
     <title>The Fellowship of the Fox at Purlieu Hall</title>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-    <meta name="viewport" content="window=device-width" />
     <link type="text/css" rel="stylesheet" href="css/global.css"></style>
   </head>
   <!-- end HEAD -->
